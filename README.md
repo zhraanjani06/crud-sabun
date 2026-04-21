@@ -56,9 +56,10 @@ php artisan serve
 ```blash
 Buka browser dan akses: http://127.0.0.1:8000/sabun
 ```
-### Author
-Nama: Zahra Anjani
-Nim : 240180037
 
 ### Tujuan
 Project ini dibuat sebagai tugas pembelajaran Laravel dan implementasi CRUD sederhana.
+
+### Author
+Nama: Zahra Anjani Putri Dewi
+[Nim : 240180037]
