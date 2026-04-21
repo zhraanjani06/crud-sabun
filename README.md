@@ -30,7 +30,7 @@ cd crud-sabun
 composer install
 ```
 4. Copy File Environment
-``blash
+```blash
 cp .env.example .env
 ```
 5. Konfigurasi Database
